@@ -4,7 +4,7 @@ For access to the colab, DM me.
 Dataset Overview:
 
 The dataset to be analyzed is "Spotify_dataset.csv," containing information regarding music tracks. This dataset is sourced from Kaggle and is primarily derived from the Hit Predictor dataset. It comprises over 40,000 tracks labeled as hits or flops, along with their features. The dataset aims to support machine learning tasks related to predicting track success and characterizing music tracks.
-In this notebook, I will aim to undertake the following tasks:
+In this notebook, I will aim, in addition to data preprocessing the feature pruning, to undertake the following tasks:
 
     Task 1: Supervised Learning
         Objective: Predicting whether a track is a hit or a flop.
